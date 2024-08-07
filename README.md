@@ -1,4 +1,4 @@
-# Software_Arq_Task1
+# SoftwareTask1
 
 ## Integrantes:
 - Juan Esteban Ocampo
